@@ -1,17 +1,6 @@
 ### Code Smell Refactors
 
-This repository lists some code smells, and it will explain how to refactor them away and why.
+This repository has some typescript source with code smells. You task is to analyse the source, answer some questions about the nature of the code and form a strategy to refactor the code smells away.
 
-The files are named in sequence according to how easy the smells are to resolve:
-
-    <sequencePosition>Smell.ts
-
-and the corresponding refactor:
-
-    <sequencePosition>Refactor.ts
-
-Clone this repo and see if you can identify what code smell is being demonstrated.
-Before looking at the code, take a moment to analyse it and then make a note.
-Look at the corresponding refactoring file showing the refactor outcome and see if your guess was correct.
 
 
