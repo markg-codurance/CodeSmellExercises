@@ -12,7 +12,7 @@ certain choices may have been made.
 Remember a code smell is an indication that something might be sub-optimally
 designed, not that there is necessarily a better way of writing the code.
 
-Start off by making a bullet point list naming the code smells you identify. Then look deeper to see if 
+Start off by making a bullet point list naming the code smells you identify. Then look deeper to see if you can come up with an agenda for change.
 
 ### Investigate and Strategise
 
