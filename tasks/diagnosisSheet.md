@@ -1,6 +1,6 @@
-##Your Diagnosis
+## Your Diagnosis
 
-###Instructions
+### Instructions
 
 <u>Do this exercise as individuals and don't share your findings with anyone yet.</u>
 
@@ -14,7 +14,7 @@ designed, not that there is necessarily a better way of writing the code.
 
 Start off by making a bullet point list naming the code smells you identify. Then look deeper to see if 
 
-###Investigate and Strategise
+### Investigate and Strategise
 
 1. Where in the code do you see the code smells?
 2. What object calisthenics principles are violated?
